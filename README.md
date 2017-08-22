@@ -6,7 +6,7 @@ This is a small tool to read Consul's commit log from the RAFT database and outp
 ## Installing and building
 
 ```
-go get -u github.com/outbrain/consul-raftdb-reader
+go get -u github.com/shluberoi/consul-raftdb-reader
 ```
 
 ## Using
